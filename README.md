@@ -4,9 +4,9 @@
 - 📖 Análise e desenvolvimento de sistema - Cruzeiro Dos Sul
 Programa Starter FullStack Web Developer - GrowDev<br>
 
-- 👋 Oi
+- 👋 Oi<br>
 Meu nome é Erick Vieira Maestrello, tenho 30 anos e durante minhas escolhas profissionais, atuando nas áreas de: Importação, Projetista de móveis, Barbeiro, Dono de Lounge, Motorista, desenvolvi habilidades, como: resiliência, organização, trabalho em equipe, agilidade, experiência com negócio próprio, pró atividade entre outras.
-Hoje me encontro em transição de Carreira, aprendendo uma nova formação e me dando mais uma oportunidade de encontrar algo concreto, pois a área de tecnologia vem me surpreendendo a cada dia e me dando a certeza que estou no caminho certo.
+Hoje me encontro aprendendo uma nova formação e me dando mais uma oportunidade de encontrar algo concreto, pois a área de tecnologia vem me surpreendendo a cada dia e me dando a certeza que estou no caminho certo.
 Descobri um universo de muitas possibilidades e desafios e busco aumentar meu conhecimento e aprendizado, por isso, estou entrando de cabeça nesta nova experiência, ciente de que ela será uma grande oportunidade.<br>
 
 <div style="display: inline_block"><br>
