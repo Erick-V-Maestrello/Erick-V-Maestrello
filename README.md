@@ -1,7 +1,7 @@
 ### Oii, sou o Erick Maestrello 👋
 
 - 👨‍👩‍👧 amo estar com a familia sempre
-- 📖 Análise e desenvolvimento de sistema - Cruzeiro Dos Sul
+- 📖 Análise e desenvolvimento de sistema - Cruzeiro Dos Sul<br>
 Programa Starter FullStack Web Developer - GrowDev<br>
 
 - 👋 Oi<br>
